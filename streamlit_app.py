@@ -4,7 +4,7 @@ cloud_yes = '✅ Community Cloud'
 cloud_no = '❌ Community Cloud'
 local_yes = '✅ Local'
 local_no = '❌ Local'
-space = '\t'
+space = '\n'
 
 # Works on Community Cloud
 # Works locally
